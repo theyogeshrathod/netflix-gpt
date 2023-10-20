@@ -14,6 +14,18 @@
 - Implement sign in user API
 - Create user redux store with user slice
 - Show user dp on header
+- Handled logged in and logged our user scenario
+- Unscribed to the onAuthStateChanged callback when header unmounts
+- Added hard coded values to the costant file
+- Registered for TMDB API
+- Get data from TMDB Now Playing movies API
+- Created custom hook for now playing movies
+- Created movie slice
+- Updated store with movies data
+- Created UI for main container and secondary container
+- Updated store with trailer video data
+- Embedded YouTube video and made it autoplay and mute
+- Added tailwind classes to make the main container look awesome
 
 # Features
 
