@@ -26,6 +26,7 @@
 - Updated store with trailer video data
 - Embedded YouTube video and made it autoplay and mute
 - Added tailwind classes to make the main container look awesome
+- Added secondary container with now playing, trending and top rated movie cards.
 
 # Features
 
